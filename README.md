@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexis Katel
 - 👀 I’m interested in the web
 - 🌱 I’m currently learning several programming languages 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project
 - 📫 Reach me by my mail... katelahog@gmail.com
 
 <!---
